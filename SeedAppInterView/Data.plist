@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>url</key>
+		<string>https://www.bbc.com/news/world-us-canada-45324627</string>
+		<key>title</key>
+		<string>Hunter killed in attack by polar bear in Canada</string>
+		<key>image</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>https://www.bbc.com/news/world-us-canada-45348256</string>
+		<key>title</key>
+		<string>Don McGahn: Trump says White House counsel to depart</string>
+		<key>image</key>
+		<string>2</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>https://www.bbc.com/news/world-us-canada-45335808</string>
+		<key>title</key>
+		<string>US homeless man sues couple over $400,000 fundraiser money</string>
+		<key>image</key>
+		<string>3</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>https://www.businessinsider.com/mcgregor-vs-khabib-ufc-229-date-how-to-watch-live-online-2018-8</string>
+		<key>title</key>
+		<string>Here&apos;s when UFC 229: Khabib vs. McGregor starts where you live — and how you can watch it live online</string>
+		<key>image</key>
+		<string>4</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>http://www.nba.com/article/2018/08/29/lebron-james-los-angeles-lakers-vows-speak-out-social-issues?collection=news</string>
+		<key>title</key>
+		<string>LeBron James plans to keep speaking out on social issues</string>
+		<key>image</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>https://www.forbes.com/sites/blakeoestriecher/2018/08/29/wwe-is-no-longer-the-be-all-and-end-all-of-pro-wrestling-and-that-should-worry-vince-mcmahon/#6fbea71eb5dc</string>
+		<key>title</key>
+		<string>WWE Is No Longer The Be-All And End-All Of Pro Wrestling, And That Should Worry Vince McMahon</string>
+		<key>image</key>
+		<string>6</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>https://ca.nba.com/news/breakout-candidates-eastern-conference-taurean-prince-malik-monk-markelle-fultz/13efahtqblxrl12bv1b05gvzkx</string>
+		<key>title</key>
+		<string>Breakout candidates for each team in the Eastern Conference</string>
+		<key>image</key>
+		<string>7</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>https://www.mlb.com/bluejays/news/blue-jays-place-josh-donaldson-on-waivers/c-292450314</string>
+		<key>title</key>
+		<string>Trade expected as Donaldson placed on waivers</string>
+		<key>image</key>
+		<string>8</string>
+	</dict>
+	<dict>
+		<key>url</key>
+		<string>https://www.bbc.com/news/technology-45349056</string>
+		<key>title</key>
+		<string>Air Canada app data breach involves passport numbers</string>
+		<key>image</key>
+		<string>9</string>
+	</dict>
+</array>
+</plist>
